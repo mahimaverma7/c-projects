@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\Abstract_class\Abstract_class\bin\Debug\Abstract_class.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Abstract_class\Abstract_class\bin\Debug\Abstract_class.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\Abstract_class\Abstract_class\obj\x86\Debug\Abstract_class.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Abstract_class\Abstract_class\obj\x86\Debug\Abstract_class.pdb
