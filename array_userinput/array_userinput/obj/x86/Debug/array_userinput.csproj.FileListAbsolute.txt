@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\array_userinput\array_userinput\bin\Debug\array_userinput.exe
+c:\users\mahima\documents\visual studio 2010\Projects\array_userinput\array_userinput\bin\Debug\array_userinput.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\array_userinput\array_userinput\obj\x86\Debug\array_userinput.exe
+c:\users\mahima\documents\visual studio 2010\Projects\array_userinput\array_userinput\obj\x86\Debug\array_userinput.pdb

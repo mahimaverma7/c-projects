@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\Class_implementation\Class_implementation\bin\Debug\Class_implementation.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Class_implementation\Class_implementation\bin\Debug\Class_implementation.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\Class_implementation\Class_implementation\obj\x86\Debug\Class_implementation.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Class_implementation\Class_implementation\obj\x86\Debug\Class_implementation.pdb

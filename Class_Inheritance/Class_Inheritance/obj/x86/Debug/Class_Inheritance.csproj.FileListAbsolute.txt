@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\Class_Inheritance\Class_Inheritance\bin\Debug\Class_Inheritance.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Class_Inheritance\Class_Inheritance\bin\Debug\Class_Inheritance.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\Class_Inheritance\Class_Inheritance\obj\x86\Debug\Class_Inheritance.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Class_Inheritance\Class_Inheritance\obj\x86\Debug\Class_Inheritance.pdb

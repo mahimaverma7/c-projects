@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\mahima\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+c:\users\mahima\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
