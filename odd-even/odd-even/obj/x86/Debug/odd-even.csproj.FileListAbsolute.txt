@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\odd-even\odd-even\bin\Debug\odd-even.exe
+c:\users\mahima\documents\visual studio 2010\Projects\odd-even\odd-even\bin\Debug\odd-even.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\odd-even\odd-even\obj\x86\Debug\odd-even.exe
+c:\users\mahima\documents\visual studio 2010\Projects\odd-even\odd-even\obj\x86\Debug\odd-even.pdb

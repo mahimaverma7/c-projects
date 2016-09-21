@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\Palindrom_string\Palindrom_string\bin\Debug\Palindrom_string.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Palindrom_string\Palindrom_string\bin\Debug\Palindrom_string.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\Palindrom_string\Palindrom_string\obj\x86\Debug\Palindrom_string.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Palindrom_string\Palindrom_string\obj\x86\Debug\Palindrom_string.pdb

@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\multidim_array\multidim_array\bin\Debug\multidim_array.exe
+c:\users\mahima\documents\visual studio 2010\Projects\multidim_array\multidim_array\bin\Debug\multidim_array.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\multidim_array\multidim_array\obj\x86\Debug\multidim_array.exe
+c:\users\mahima\documents\visual studio 2010\Projects\multidim_array\multidim_array\obj\x86\Debug\multidim_array.pdb

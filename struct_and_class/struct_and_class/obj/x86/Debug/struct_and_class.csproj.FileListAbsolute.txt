@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\struct_and_class\struct_and_class\bin\Debug\struct_and_class.exe
+c:\users\mahima\documents\visual studio 2010\Projects\struct_and_class\struct_and_class\bin\Debug\struct_and_class.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\struct_and_class\struct_and_class\obj\x86\Debug\struct_and_class.exe
+c:\users\mahima\documents\visual studio 2010\Projects\struct_and_class\struct_and_class\obj\x86\Debug\struct_and_class.pdb

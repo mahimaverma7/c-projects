@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\printing_tables\printing_tables\bin\Debug\printing_tables.exe
+c:\users\mahima\documents\visual studio 2010\Projects\printing_tables\printing_tables\bin\Debug\printing_tables.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\printing_tables\printing_tables\obj\x86\Debug\printing_tables.exe
+c:\users\mahima\documents\visual studio 2010\Projects\printing_tables\printing_tables\obj\x86\Debug\printing_tables.pdb
