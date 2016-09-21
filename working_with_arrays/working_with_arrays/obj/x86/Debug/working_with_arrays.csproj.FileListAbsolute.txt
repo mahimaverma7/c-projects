@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\working_with_arrays\working_with_arrays\bin\Debug\working_with_arrays.exe
+c:\users\mahima\documents\visual studio 2010\Projects\working_with_arrays\working_with_arrays\bin\Debug\working_with_arrays.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\working_with_arrays\working_with_arrays\obj\x86\Debug\working_with_arrays.exe
+c:\users\mahima\documents\visual studio 2010\Projects\working_with_arrays\working_with_arrays\obj\x86\Debug\working_with_arrays.pdb
