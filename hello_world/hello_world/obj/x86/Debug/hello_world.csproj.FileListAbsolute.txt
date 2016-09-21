@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\hello_world\hello_world\bin\Debug\hello_world.exe
+c:\users\mahima\documents\visual studio 2010\Projects\hello_world\hello_world\bin\Debug\hello_world.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\hello_world\hello_world\obj\x86\Debug\hello_world.exe
+c:\users\mahima\documents\visual studio 2010\Projects\hello_world\hello_world\obj\x86\Debug\hello_world.pdb

@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\findquadrant\findquadrant\bin\Debug\findquadrant.exe
+c:\users\mahima\documents\visual studio 2010\Projects\findquadrant\findquadrant\bin\Debug\findquadrant.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\findquadrant\findquadrant\obj\x86\Debug\findquadrant.exe
+c:\users\mahima\documents\visual studio 2010\Projects\findquadrant\findquadrant\obj\x86\Debug\findquadrant.pdb

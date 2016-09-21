@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\list_example\list_example\bin\Debug\list_example.exe
+c:\users\mahima\documents\visual studio 2010\Projects\list_example\list_example\bin\Debug\list_example.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\list_example\list_example\obj\x86\Debug\list_example.exe
+c:\users\mahima\documents\visual studio 2010\Projects\list_example\list_example\obj\x86\Debug\list_example.pdb

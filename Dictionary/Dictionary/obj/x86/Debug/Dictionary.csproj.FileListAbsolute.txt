@@ -1,0 +1,4 @@
+c:\users\mahima\documents\visual studio 2010\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\mahima\documents\visual studio 2010\Projects\Dictionary\Dictionary\obj\x86\Debug\Dictionary.exe
+c:\users\mahima\documents\visual studio 2010\Projects\Dictionary\Dictionary\obj\x86\Debug\Dictionary.pdb
